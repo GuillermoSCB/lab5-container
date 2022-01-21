@@ -1,0 +1,33 @@
+######################## k-mer13-Python #####################################################################
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m37,436s
+user	1m37,284s
+sys	0m0,004s
+######################## k-mer14-Python #####################################################################
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m43,748s
+user	6m43,137s
+sys	0m0,004s
+######################## k-mer13-C++ ########################################################################
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m0,712s
+user	0m0,710s
+sys	0m0,001s
+######################## k-mer14-C++ ########################################################################
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m2,915s
+user	0m2,910s
+sys	0m0,001s
+Programas de .py y .cc para tamaños de k-mers 13 y 14 ejecutados
