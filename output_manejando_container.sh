@@ -1,0 +1,28 @@
+#################### Esto es un ls del directorio #########################
+README.md
+RESULTADOS.txt
+data
+hola
+lab5-container
+manejando_container.sh
+output_manejando_container.sh
+singularity
+###########################################################################
+#################### Esto es un pwd del directorio ########################
+/home/alumno23/lab5-container
+###########################################################################
+#################### Esta es la version de python ##########################
+Python 3.9.1
+###########################################################################
+#################### Esta es la version del compilador ####################
+g++ (Debian 8.3.0-6) 8.3.0
+Copyright (C) 2018 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+###########################################################################
+#################### Esta es la version del compilador ####################
+Start
+Number of generated k-mers: 67108864
+Finish!
+###########################################################################
