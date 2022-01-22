@@ -10,7 +10,7 @@
 
 module load singularity
 
-
+singularity exec /nas/hdd-0/singularity_images/python_3-9-1.sif cat /etc/os-release
 echo "#################### Esto es un ls del directorio #########################"
 singularity exec /nas/hdd-0/singularity_images/python_3-9-1.sif ls
 echo "###########################################################################"

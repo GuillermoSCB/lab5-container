@@ -1,8 +1,17 @@
+PRETTY_NAME="Debian GNU/Linux 10 (buster)"
+NAME="Debian GNU/Linux"
+VERSION_ID="10"
+VERSION="10 (buster)"
+VERSION_CODENAME=buster
+ID=debian
+HOME_URL="https://www.debian.org/"
+SUPPORT_URL="https://www.debian.org/support"
+BUG_REPORT_URL="https://bugs.debian.org/"
 #################### Esto es un ls del directorio #########################
 README.md
 RESULTADOS.txt
+blast
 data
-hola
 lab5-container
 manejando_container.sh
 output_manejando_container.sh
