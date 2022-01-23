@@ -34,4 +34,8 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 Start
 Number of generated k-mers: 67108864
 Finish!
+
+real	0m0,960s
+user	0m0,786s
+sys	0m0,128s
 ###########################################################################

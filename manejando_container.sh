@@ -31,10 +31,10 @@ echo "#################### Esta es la version del compilador ###################
 singularity exec /nas/hdd-0/singularity_images/python_3-9-1.sif g++ --version
 echo "###########################################################################"
 
-
+module unload singularity/3.8.0
 echo "#################### Esta es la version del compilador ####################"
-singularity exec /nas/hdd-0/singularity_images/python_3-9-1.sif data/k-mer13
+time singularity exec /nas/hdd-0/singularity_images/python_3-9-1.sif data/k-mer13
 echo "###########################################################################"
-#time data/k-mer13
+
 
 
