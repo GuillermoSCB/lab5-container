@@ -31,3 +31,9 @@ real	0m2,915s
 user	0m2,910s
 sys	0m0,001s
 Programas de .py y .cc para tamaños de k-mers 13 y 14 ejecutados
+Start
+Number of generated k-mers: 67108864
+Finish!
+Start
+Number of generated k-mers: 268435456
+Finish!
